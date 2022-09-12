@@ -1,0 +1,35 @@
+
+.App{
+ margin:auto;
+ width:550px;
+}
+html{
+  background: url(../vivid-blue-sky-with-white-scattered-clouds_76000-7220.jpg);
+}
+.container{
+  background :rgb(123, 179, 253);
+  margin: auto;
+  width:500px;
+  margin-top: 150px;
+  padding: auto;
+  border-radius: 20px;
+  display: inline-block;
+}
+li{
+  list-style-type:none ;
+}
+.center{
+display: inline-block;
+
+}
+img{
+  width:200px;
+
+}
+.title{
+  text-align: center;
+}
+.buto{
+  margin-left: 200px;
+}
+
